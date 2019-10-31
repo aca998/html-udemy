@@ -1,0 +1,82 @@
+/* 
+p {
+    Color:rgb(128, 13, 32);
+    font-size:23px;
+    font-weight: bold;
+}
+
+
+p1,h1 {
+    color:green;
+}
+p {
+    Color:blue;
+
+}
+div p {
+    Color:purple;
+    font-weight: bold;
+    font-size :20px
+}
+#Ajdi {
+    color:salmon;
+}
+.Klasa{
+    color:steelblue;
+    font-weight: bold;
+    font-size: 44px;
+}
+div {
+border: 5px solid yellow;
+background: indigo;
+color: whitesmoke;
+border-radius: 20px;
+border-style: groove;
+}
+div ul {
+list-style-type: decimal;
+
+} */
+body{
+    background: gray;
+}
+.deo{
+ font-size: 15px;
+ font-weight: bold;
+ color: teal;
+ outline: yellow;
+}
+
+.para{
+    Color:#040F67;
+    font-size: 17px;
+    font-weight: bolder;
+    font-style: oblique;
+    border:4px solid blanchedalmond;
+    border-radius: 40px;
+    background: beige;
+    margin-left:15px;
+
+
+}
+.lorem{
+    font-weight: bold;
+    color: blue;
+    border-color: chartreuse;
+    border: 2px solid black;
+    margin-right: 1130px;
+}
+ul{
+    list-style-type: disc;
+}
+img{
+    margin-left: 530px;
+}
+.dole{
+    margin-left: 500px;
+    margin-right: 700px;
+    color:red;
+    border: red solid 4px;
+    background: black;
+    
+}

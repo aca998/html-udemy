@@ -1,0 +1,26 @@
+/* #naslov{
+text-align: center;
+
+}
+#okvir {
+    width: 900px;
+    height: 400px;
+    background-image: url(../slike/slika.jpg);
+    margin: 0 auto;
+
+} */
+
+#kutija h2{
+    border: 2px solid green;
+    width: 250px;
+    color: gold;
+    text-align: center;
+    background:black;
+
+}
+#kutija h2:hover{
+    Border: 2px solid black;
+    color: black;
+    background:gold
+
+}

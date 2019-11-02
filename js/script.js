@@ -1,2 +1,2 @@
-// alert("Zdravo ovo je JavaScript");
-// document.write("Zdravo ovo je JavaScript na drugi nacin")
+// alert("Hello this is java scriot");
+// document.write("hello this is java script on the other way")

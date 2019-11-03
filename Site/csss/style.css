@@ -1,0 +1,129 @@
+body{
+    background:#fffced;
+    margin: 0;
+}
+.container{
+    width: 720px;
+    margin: 0 auto;
+    background: #F5F1DD;
+}
+.header{
+    padding: 40px 0 20px 40px;
+    border: 2px solid black;
+
+}
+
+.menu{
+    background: #D2CEB8;
+    padding: 5px 0 5px 40px;
+}
+
+.menu a{
+color: black;
+text-decoration: none;
+font: bold;
+font-size: 14px;
+font-family: "Impact";
+}
+.menu  a:hover{
+ color: #3d3d3d;
+}
+.aca{
+    font: bold;
+    font-size: 56px;
+    text-decoration: none;
+    font-family: "Comic Sans MS";
+    color: black;
+    margin-left: 30px;
+   
+
+}
+aside{
+    float: left;
+    width: 120px;
+    padding: 30px 0 0 40px;
+   
+}
+h1{
+    margin: 0 0 0 30px;
+    color:black;
+    font-size: 20px;
+    font-family: "impact";
+    font-weight:normal;
+    text-align: center;
+
+}
+.main{
+    margin:0 0 0 200px;
+    padding: 35px 40px 30px 0;
+    color: black;
+    font-family: "Arial";
+    font-size: 13px;
+    line-height: 18px;
+    text-emphasis: justify;
+
+}
+footer{
+    padding: 6px 40px 10px 40px;
+    background: #b1af91;
+    font-family: "arial";
+    text-decoration: right;
+    font-size: 11px;
+}
+footer a,.sli{
+    text-decoration: none;
+}
+/***********ABOUT PAGE*************/
+
+#about #home-img img{
+    margin: -45px 8px 0 20px;
+    width:60%;
+    float:left;
+}
+#about-page #profile-info{
+   
+    float:right;
+    width: 20%;
+    padding: 5px;
+    
+}
+#about .description{
+    clear: both;
+}
+
+/*************CONTACT PAGE************/
+
+#Contact #form{
+width:500px;
+border: 3px inset white;
+border-radius: 3px;
+padding: 15px; 
+margin: 0 0 50px -113px;
+}
+
+#Contact #Naslov{
+
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 230px;
+}
+
+#Contact input{
+width: 100%;
+border-radius: 5px;
+height: 20px;
+
+}
+#Contact textarea{
+    width: 100%;
+    border-radius: 5px;
+    border:3px inset white;
+
+}
+#Contact #submit{
+    background:#A09D7D;
+}
+#Contact #submit:hover {
+    border: 2px ridge white;
+    background:#B3B1A0;
+}

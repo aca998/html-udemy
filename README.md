@@ -3,10 +3,10 @@
 '''html-udemy is my first html repository and i use it just for practice.In near future my git hub shall be much bigger and i will have better html/css/js files '''
 ## How_i_use_it
 
- '''<p> is for paragraph </p>
-    <h1> is for heading </h1>
-    <a> is for link </a>
-    and lots of more commands'''
+ '''<p> is for paragraph </p> '''
+    '''<h1> is for heading </h1>'''
+    '''<a> is for link </a>'''
+    '''and lots of more commands'''
 ## Example
 
 ''' This is how i make picture clickable
